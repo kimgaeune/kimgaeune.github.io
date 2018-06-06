@@ -1,1 +1,1 @@
-# kimgaeune.github.io
+# https://www.twitch.tv/kimgaeune

@@ -16,13 +16,13 @@ header #right-search-form>input[type=text] {
     border: 3px solid #3a2dff;
 }
 
+
 header #right-search-form>#right-search-btn {
     color: #3a2dff;
     background: transparent;
     border: none;
     font-size: 1.4em;
 }
-
 
 
 header #header-bar>.row {
@@ -47,9 +47,11 @@ header #header-bar #header-top-notice strong.notice-badge {
     background: #3a2dff;
 }
 
+
 #main .menu-wrapper>a>em {
     color: #5c51ff;
 }
+
 
 #main .menu-wrapper>a>i.fa.fa-square {
     color: #5c51ff;
@@ -59,6 +61,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 #article-list {
      padding: 0 0em 1em;
 }
+
 
 #article-list>.article-list-row {
     border-right: 0px solid #e2e2e2;
@@ -80,6 +83,7 @@ header #header-bar #header-top-notice strong.notice-badge {
     background-color: #5c51ff;
 }
 
+
 #article-list>.article-list-row>.item>.list-title>.list-writer.logged>span {
     color: #3a2dff;
 }
@@ -91,9 +95,15 @@ header #header-bar #header-top-notice strong.notice-badge {
 }
 
 
+#article-list-menu>.btn.write {
+    margin-right: 1em;
+}
+
+
 #article-list>.article-list-row>.item>.list-title>small.comment-count {
     color: #837aff;
 }
+
 
 #article-list>.article-list-row.notice {
     background-color: #c4d8ff;

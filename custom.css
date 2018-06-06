@@ -95,7 +95,9 @@ header #header-bar #header-top-notice strong.notice-badge {
 }
 
 
-#article-list-menu>.btn.write {
+#article-list #article-list-menu>.btn.write {
+    position: absolute;
+    right: 0;
     margin-right: 1em;
 }
 

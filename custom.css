@@ -70,12 +70,12 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #article-list #article-list-category {
     border-top: 2px solid #3a2dff;
-    background: #c4d8ff;
+    background: #cfe3ff;
 }
 
 
 #article-list #article-list-category>a {
-   background: #c4d8ff;
+   background: #cfe3ff;
 }
 
 
@@ -111,5 +111,5 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 
 #article-list>.article-list-row.notice {
-    background-color: #c4d8ff;
+    background-color: #cfe3ff;
 }

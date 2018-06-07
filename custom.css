@@ -27,7 +27,7 @@ header #header-bar>.row {
 }
 
 
-i.fa.fa-clock-o, i.fa.fa-star, i.fa.fa-smile-o, i.fa.fa-envelope-o {
+header i.fa.fa-clock-o, header i.fa.fa-star, header i.fa.fa-smile-o, header i.fa.fa-envelope-o {
     color: #cfe3ff;
 }
 

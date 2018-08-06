@@ -2,7 +2,7 @@ header .row > div:nth-child(1) > a {
     background-repeat: no-repeat;
     display: block;
     width: 145px;
-    height: 55px;
+    height: 50px;
     background-image: url(https://kimgaeune.github.io/img/logo.png);
 }
 

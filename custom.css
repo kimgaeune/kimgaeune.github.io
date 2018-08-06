@@ -32,6 +32,94 @@ header i.fa.fa-clock-o, header i.fa.fa-star, header i.fa.fa-smile-o, header i.fa
 }
 
 
+
+element.style {
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+i, cite, em, var, address, dfn {
+    font-style: italic;
+}
+#board-info #viewers-area {
+    font-size: 14px;
+    color: rgba(10, 59, 84, 0.4);
+    font-weight: normal;
+    vertical-align: middle;
+    line-height: 18px;
+    display: inline-block;
+}
+#board-info h1 {
+    font-size: 24px;
+    vertical-align: top;
+    padding-bottom: 3px;
+    border-bottom: 1px solid #e2e2e2;
+}
+.h1, h1 {
+    font-size: 36px;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+h1 {
+    margin: .67em 0;
+    font-size: 2em;
+}
+user agent stylesheet
+h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+#board-info {
+    width: 100%;
+    height: 64px;
+    overflow: hidden;
+    line-height: 1;
+    margin: 0 0 1em;
+    padding: 1em;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+.fa-user:before {
+    content: "";
+    background-image: url(https://kimgaeune.github.io/img/%5E%5E7_20.png);
+    display: block;
+    width: 20px;
+    height: 20px;
+
 header #header-bar #header-top-notice strong.notice-badge {
     background: #3a2dff;
 }

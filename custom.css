@@ -34,7 +34,7 @@ header i.fa.fa-clock-o, header i.fa.fa-star, header i.fa.fa-smile-o, header i.fa
 
 .fa-user:before {
     content: "";
-    background-image: url(http://kimgaeune.github.io/img/gong_20.png);
+    background-image: url(http://kimgaeune.github.io/img/gong.png);
     background-repeat: no-repeat;
     display: block;
     width: 10px;
